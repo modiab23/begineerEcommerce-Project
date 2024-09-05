@@ -1,0 +1,13 @@
+form{
+    text-align: center;
+}
+form input{
+    display: block;
+    width: 80%;
+    margin: 5px auto;
+    padding: 10px;
+    outline: none;
+}
+form input[type="submit"]{
+    cursor: pointer;
+}
